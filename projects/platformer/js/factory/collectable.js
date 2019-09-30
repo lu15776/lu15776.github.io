@@ -27,9 +27,7 @@
                 
                 default:
                     // code
-                    collectable.create(type.steve, 200, 170, 6, 0.7);
-                    collectable.create(type.steve, 170, 200, 0.7, 6);
-                    collectable.create(type.steve, 100, 100, 2, 0.5);
+
 
             }
             if (gravity) collectable.body.gravity.y = gravity;

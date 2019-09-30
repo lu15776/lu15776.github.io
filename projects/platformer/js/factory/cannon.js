@@ -88,9 +88,5 @@
         /**
          * Returns a helper for placing cannons.
          */
-        opspark.cannon.create = create;
-        cannon.create.onTop(50);
-cannon.create.onBottom(70);
-cannon.create.onLeft(50);
-cannon.create.onRight(70);
+
 })(window);
