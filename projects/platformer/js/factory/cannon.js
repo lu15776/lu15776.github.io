@@ -88,5 +88,6 @@
         /**
          * Returns a helper for placing cannons.
          */
-
+        opspark.cannon.create = create;
+    };
 })(window);

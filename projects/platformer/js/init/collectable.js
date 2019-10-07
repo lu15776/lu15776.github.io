@@ -35,12 +35,12 @@
         // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
         
         // example: 
-        collectable.create(type.steve, 200, 170, 6, 0.7);
+        //collectable.create(type.steve, 200, 170, 6, 0.7);
         
-        
-        collectable.create(type.steve, 200, 170, 6, 0.7);
-        collectable.create(type.steve, 170, 200, 0.7, 6);
-        collectable.create(type.steve, 100, 100, 2, 0.5);
+        //opspark.collectable.create = create;
+        collectable.create(type.steve, 150, 550,  6, 0.7);
+        collectable.create(type.steve, 400, 450, 0.7, 6);
+        collectable.create(type.steve, 150, 250, 2, 0.5);
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
     };

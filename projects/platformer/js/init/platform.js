@@ -33,13 +33,12 @@
          * bottom of the game.
          */
         platform.create(0, game.world.height - 32, 3, 2);
-
+//opspark.platform.create = create;
         // example:
-        platform.create(400, 460);
-        platform.create(500, 200);
-        platform.create(300, 100);        
-        platform.create(400, 100);
-        platform.create(500, 300);        
+        platform.create(150, 600);
+        platform.create(400, 500);
+        platform.create(150, 400);        
+     
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
     };
