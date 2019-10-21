@@ -39,8 +39,8 @@
         
         //opspark.collectable.create = create;
         collectable.create(type.steve, 150, 550,  6, 0.7);
-        collectable.create(type.steve, 400, 450, 0.7, 6);
-        collectable.create(type.steve, 150, 250, 2, 0.5);
+        collectable.create(type.grace, 400, 450, 0.7, 6);
+        collectable.create(type.kennedi, 150, 250, 2, 0.5);
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
     };
